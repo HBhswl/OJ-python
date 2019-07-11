@@ -1,0 +1,4 @@
+  File "code.py", line 3
+    print()ss
+            ^
+SyntaxError: invalid syntax
